@@ -1,16 +1,136 @@
-# React + Vite
+# 🌐 Aryan Kale - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website showcasing my projects, technical skills, internships, and achievements. Built with React and Vite, the website features smooth animations, interactive 3D graphics, and a clean user interface to provide an engaging user experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://portfolio-website-two-ochre-31.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Responsive design for desktop, tablet, and mobile devices
+- Modern and minimal UI
+- Interactive 3D graphics
+- Smooth animations and transitions
+- Projects showcase
+- Skills section
+- Internship & experience timeline
+- Contact section with social media links
+- Fast loading and optimized performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React 19
+- React Router DOM 7
+- JavaScript (ES Modules)
+
+### Styling
+- Tailwind CSS 3
+- PostCSS
+- Autoprefixer
+- clsx
+- tailwind-merge
+
+### Animations
+- Framer Motion
+- GSAP
+
+### 3D Graphics
+- Three.js
+- @react-three/fiber
+- @react-three/drei
+
+### Icons
+- Lucide React
+- React Icons
+
+### Development Tools
+- Vite 8
+- @vitejs/plugin-react
+- ESLint 9
+- eslint-plugin-react-hooks
+- eslint-plugin-react-refresh
+
+### Deployment
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```text
+portfolio-website/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/ASK120305/portfolio-website.git
+```
+
+### Navigate to the project directory
+
+```bash
+cd portfolio-website
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the development server
+
+```bash
+npm run dev
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+### Preview the production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 📬 Contact
+
+**Aryan Kale**
+
+- 🌐 Portfolio: https://portfolio-website-two-ochre-31.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/aryan-kale-89b26b279
+- 💻 GitHub: https://github.com/ASK120305
+- 📧 Email: your-email@example.com
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub if you found it helpful or inspiring!
