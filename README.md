@@ -127,7 +127,7 @@ npm run preview
 - 🌐 Portfolio: https://portfolio-website-two-ochre-31.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/aryan-kale-89b26b279
 - 💻 GitHub: https://github.com/ASK120305
-- 📧 Email: your-email@example.com
+- 📧 Email: arkale2005@gmail.com
 
 ---
 
